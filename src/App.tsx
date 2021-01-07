@@ -1,7 +1,9 @@
 import React from 'react';
 import './App.css'
-import Navbar from './Navibar';
 import Home from './Home/Index';
+import Navbar from './Navibar';
+
+
 
 
 
